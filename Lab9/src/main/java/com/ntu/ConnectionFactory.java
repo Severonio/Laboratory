@@ -12,7 +12,7 @@ public class ConnectionFactory {
 
 	public static final String DB_URL = "jdbc:mysql://localhost:3306/dbntu?useSSL=false";
 	public static final String DB_USER = "root"; //ваш користувач
-	public static final String DB_PASSWORD = "HateRobbers431";  //ваш пароль
+	public static final String DB_PASSWORD = "";  //ваш пароль
 
 	/**
 	 * Get a connection to database
