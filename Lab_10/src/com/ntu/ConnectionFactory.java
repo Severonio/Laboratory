@@ -10,7 +10,7 @@ public class ConnectionFactory {
 
     public static final String DB_URL = "jdbc:mysql://localhost:3306/enterp?useSSL=false";
     public static final String DB_USER = "root";
-    public static final String DB_PASSWORD = "HateRobbers431";
+    public static final String DB_PASSWORD = "";
 
 
     public static Connection getConnection()
